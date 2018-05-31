@@ -1,5 +1,6 @@
 # Project-Interface-basic
 Making a small project to help to learn Interface.
+       
         1. Create a simple interface that allows an object to be saved to some sort of storage medium.
         2. The exact type of medium is not known to the interface (nor to the classes that implement it).
         3. The interface will just specify 2 methods, one to return an ArrayList of values to be saved
